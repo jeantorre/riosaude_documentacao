@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "riosaude-documentacao"
+version = "0.1.0"
+description = ""
+authors = ["Jean Torre"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+black = "^25.1.0"
+flake8 = "^7.1.1"
+isort = "^6.0.0"
+pre-commit = "^4.1.0"
+mkdocs = "^1.6.1"
+mkdocs-material = "^9.6.3"
+mkdocstrings-python = "^1.14.6"
+taskipy = "^1.14.1"
+ignr = "^2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+profile = 'black'
+
+[tool.taskipy.tasks]
+docs = "mkdocs serve"
