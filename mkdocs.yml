@@ -28,6 +28,11 @@ extra_css:
   - css/extra.css
   - css/custom.css
 
+
+use_directory_urls: true
+extra:
+  src_dir: src
+
 theme:
   name: material
   language: pt-BR
