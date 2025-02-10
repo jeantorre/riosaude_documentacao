@@ -71,7 +71,7 @@ Por exemplo, um profissional será removido da lista de ativos em abril apenas s
 
 
 ## Schema e Dicionário de Dados
-::: backend.schemas.schema_dgp_cnes.SchemaDGP_CNES_Output
+::: backend.schemas.schema_consolidado_cnes.SchemaDGP_CNES_Output
     options:
         handler: python
         show_source: false
