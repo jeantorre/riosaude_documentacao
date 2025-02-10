@@ -17,11 +17,11 @@ copyright: >
   <p>Rua Dona Mariana, 48 - Botafogo, Rio de Janeiro - RJ, 22280-020</p>
 
 nav:
-  - Home: index.md
+  - Página Inicial: index.md
   - Projetos:
     - Consolidado CNES:
-      - Documentação: consolidado_cnes/index.md
-      - Versão: consolidado_cnes/versions.md
+      - Documentação: consolidado_cnes/documentacao_consolidado_cnes.md
+      - Versionamento: consolidado_cnes/versao_consolidado_cnes.md
   - Sobre Nós: about.md
 
 extra_css:
