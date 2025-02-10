@@ -10,4 +10,4 @@ Aqui você encontrará todas as informações essenciais para compreender os pro
 Esta documentação tem como objetivo garantir transparência, padronização e eficiência no desenvolvimento.
 
 
-![logo](/src/logo-riosaude-dgov.jpeg)
+![logo](src/logo-riosaude-dgov.jpeg)
