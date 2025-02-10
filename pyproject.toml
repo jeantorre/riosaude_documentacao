@@ -16,6 +16,7 @@ mkdocs-material = "^9.6.3"
 mkdocstrings-python = "^1.14.6"
 taskipy = "^1.14.1"
 ignr = "^2.2"
+mkdocs-mermaid2-plugin = "^1.2.1"
 
 
 [build-system]
