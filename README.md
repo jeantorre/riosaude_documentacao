@@ -9,4 +9,4 @@ Aqui você encontrará todas as informações essenciais para compreender os pro
 
 Esta documentação tem como objetivo garantir transparência, padronização e eficiência no desenvolvimento.
 
-![logo](docs/src/logo-riosaude-dgov.jpeg)
+[![logo](docs/src/logo-riosaude-dgov.jpeg)](https://jeantorre.github.io/riosaude_documentacao/)
