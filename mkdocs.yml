@@ -22,11 +22,20 @@ nav:
     - Consolidado CNES:
       - Documentação: consolidado_cnes/documentacao_consolidado_cnes.md
       - Versionamento: consolidado_cnes/versao_consolidado_cnes.md
+    - Performance das Unidades:
+      - Documentação: irs_gerencial/documentacao_irs_gerencial.md
+      - Esquemas: irs_gerencial/esquema_irs_gerencial.md
+      - Versionamento: irs_gerencial/versao_irs_gerencial.md
   - Sobre Nós: about.md
 
 extra_css:
   - css/extra.css
   - css/custom.css
+
+
+use_directory_urls: true
+extra:
+  src_dir: src
 
 theme:
   name: material
