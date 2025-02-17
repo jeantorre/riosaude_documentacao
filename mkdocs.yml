@@ -24,6 +24,7 @@ nav:
       - Versionamento: consolidado_cnes/versao_consolidado_cnes.md
     - Performance das Unidades:
       - Documentação: irs_gerencial/documentacao_irs_gerencial.md
+      - Regras de Negócios: irs_gerencial/regras_negocio_irs_gerencial.md
       - Esquemas: irs_gerencial/esquema_irs_gerencial.md
       - Versionamento: irs_gerencial/versao_irs_gerencial.md
   - Sobre Nós: about.md
