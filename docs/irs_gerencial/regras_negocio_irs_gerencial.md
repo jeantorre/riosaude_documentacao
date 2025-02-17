@@ -86,5 +86,5 @@ Especialidade: Total de atendimentos por especialidade, incluindo a variação p
 **Admissões**: Pacientes admitidos em leitos de unidades de modalidade hospitalares ou admitidos em leitos de unidades de modalidade de emergência em local de observação.  
 **Comparação mês a mês**: Todas as comparações são feitas considerando o mesmo período dos meses envolvidos. Por exemplo, o período do dia 01 até 10 de janeiro é comparado com o período de 01 até 10 de dezembro.  
 **Adulto | Pediatra**: A separação é feita pela idade do paciente e não pela especialidade do atendimento.  
-- **Adulto**: 13 anos completos em diante
-- **Pediatra**: até 12 anos e 11 meses de vida
+- **Adulto**: 13 anos completos em diante  
+- **Pediatra**: até 12 anos e 11 meses de vida  
