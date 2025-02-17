@@ -22,7 +22,7 @@ Sendo um projeto de uma grandiosidade inédita, o desenvolvimento deste projeto 
     * E muito mais...!
 
 ## ETL
-![Workflow_01](../src/assistencial_riosaude.png)
+![Workflow_01](../src/irs_gerencial/assistencial_riosaude.png)
 
 ## Área Demandante
 * DGOVI
