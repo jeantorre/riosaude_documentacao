@@ -1,5 +1,11 @@
 # Versionamento
 
+- Versão v0.1.3 - 10/03/2025
+    - Adicionada a coluna 'estabelecimento_gid' que parametriza todas as unidades de gestão parcial e plena.
+    - Allterada as informações da coluna 'parametrizado_cnes'. Anteriormente os valores eram 'sim' ou 'nao' e atualmente serão 'GESTÃO PLENA' e 'GESTÃO PARCIAL'.  
+
+    Essas alterações se dão porque foram adicionado os dados do CNES provenientes da gestão parcial e agora todas as unidades de RH do RioSaúde terão acesso a um *dashboard* para acompanhamento de quantos profissionais estão na folha de pagamento da RioSaúde *versus* profissionais cadastrados no CNES.
+
 - Versão v0.1.2 - 03/02/2025
     - Adicionada as colunas 'periodo_vigencia' e 'servidor' nas tabelas. Essas são responsáveis por:
         - 'periodo_vigencia': período de vigência do profissional.
