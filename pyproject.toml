@@ -28,3 +28,4 @@ profile = 'black'
 
 [tool.taskipy.tasks]
 docs = "mkdocs serve"
+deploy = "mkdocs gh-deploy"
