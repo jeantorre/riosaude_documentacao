@@ -50,4 +50,4 @@ plugins:
   - mermaid2
   - mkdocstrings
 
-repo_url: https://github.com/jeantorre/riosaude_dgp_cnes
+repo_url: https://github.com/jeantorre/riosaude_documentacao
